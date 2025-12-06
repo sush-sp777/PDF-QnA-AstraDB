@@ -1,0 +1,8 @@
+python-dotenv
+langchain_groq
+langchain_community
+langchain_core
+langchain_text_splitters
+langchain_huggingface
+langchain_astradb
+astrapy
